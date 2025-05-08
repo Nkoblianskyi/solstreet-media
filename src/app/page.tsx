@@ -652,7 +652,7 @@ export default function Home() {
 
             <AnimatedElement animation="fadeIn" delay={0.5}>
               <div className="relative h-[400px] rounded-lg overflow-hidden">
-                <Image src="/placeholder.svg?key=z6wkr" alt="Mapa de ubicación" fill className="object-cover" />
+                <Image src="/24ffcfb1e082b236f6898007351d7f76.jpg" alt="Mapa de ubicación" fill className="object-cover" />
               </div>
             </AnimatedElement>
           </div>
