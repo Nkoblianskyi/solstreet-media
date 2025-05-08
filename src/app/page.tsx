@@ -271,8 +271,8 @@ export default function Home() {
                                     : item === 4
                                       ? "/digital-billboard.png"
                                       : item === 5
-                                        ? "/placeholder.svg?height=600&width=800&query=gym promotional flyers"
-                                        : "/placeholder.svg?height=600&width=800&query=subway advertising language school"
+                                        ? "/rotating-billboard.png"
+                                        : "/large-advertising-canvas.png"
                             }
                             alt={`Proyecto ${item}`}
                             fill
@@ -350,7 +350,7 @@ export default function Home() {
                             src={
                               item === 2
                                 ? "/furniture-catalog-design-1.png"
-                                : "/placeholder.svg?height=600&width=800&query=gym promotional flyers"
+                                : "/9f7f46acc446a3b8d76188058ee52716.jpg"
                             }
                             alt={`Proyecto ${item}`}
                             fill
@@ -386,7 +386,7 @@ export default function Home() {
                             src={
                               item === 3
                                 ? "/bus-advertising-music-festival-1.png"
-                                : "/placeholder.svg?height=600&width=800&query=subway advertising language school"
+                                : "/9f7f46acc446a3b8d76188058ee52716.jpg"
                             }
                             alt={`Proyecto ${item}`}
                             fill
