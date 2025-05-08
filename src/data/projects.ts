@@ -73,7 +73,7 @@ export const projects: Project[] = [
       "Redacción de contenidos",
       "Impresión de alta calidad",
     ],
-    image: "/furniture-catalog-design-1.png",
+    image: "/d7cd0d083a43bcf3953a30c63084a5b3.jpg",
     testimonial: {
       quote:
         "El catálogo no solo es una herramienta de ventas efectiva, sino una pieza de diseño que refleja perfectamente los valores de nuestra marca. La calidad de la fotografía y la impresión son excepcionales.",
