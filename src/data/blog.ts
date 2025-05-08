@@ -417,7 +417,7 @@ Las vallas publicitarias están experimentando una transformación radical graci
 
 El futuro de la publicidad exterior no se trata solo de ser más grande o más brillante, sino de ser más inteligente, más relevante y más valioso tanto para las marcas como para el público.
     `,
-    date: "10 de mayo de 2025",
+    date: "8 de mayo de 2025",
     author: "Roberto Fernández",
     category: "Tecnología",
     image: "/digital-billboard.png",
