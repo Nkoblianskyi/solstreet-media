@@ -56,7 +56,7 @@ const services = [
     id: "stands-ferias",
     title: "Stands para Ferias",
     description: "Diseño y construcción de stands atractivos y funcionales para ferias y eventos comerciales.",
-    image: "/placeholder.svg?key=d4y2i",
+    image: "/91c9c38a7d53b4cf6690a1af2077f6aa.jpg",
     features: [
       "Stands modulares personalizados",
       "Stands de diseño exclusivo",
@@ -69,7 +69,7 @@ const services = [
     id: "senaletica",
     title: "Señalética Corporativa",
     description: "Desarrollo e implementación de sistemas de señalización para empresas y espacios comerciales.",
-    image: "/placeholder.svg?key=npkkv",
+    image: "/e2f2c195116271b2a8849e9e297e6e69.jpg",
     features: [
       "Rótulos corporativos",
       "Señalización interior",
